@@ -45,3 +45,28 @@ Nilai Rataan (μ) dan Varian ( ) dari σ² Distribusi Binomial.
 
 ![image](https://user-images.githubusercontent.com/94375772/162624073-9484b902-84ee-42f3-9a3b-1798906186a8.png)
 
+### Nomor 3
+
+3.a
+Peluang terdapat 4 pasien yang sembuh.
+
+![image](https://user-images.githubusercontent.com/94375772/162624242-fdee2128-6af5-495c-a465-db3786becfbf.png)
+
+3.b
+Simulasikan dan buatlah histogram kelahiran 6 bayi akan lahir di rumah sakit ini selama
+setahun (n = 365)
+
+![image](https://user-images.githubusercontent.com/94375772/162624396-2f0b7d63-952e-4683-ad05-2461e33a5296.png)
+
+3.c
+dan bandingkan hasil poin a dan b , Apa kesimpulan yang bisa didapatkan
+- Poin a memiliki peluang 0.1281201, untuk B antara 0.05 dan 0.10
+
+3.d
+Nilai Rataan (μ) dan Varian ( σ² ) dari Distribusi Poisson.
+
+![image](https://user-images.githubusercontent.com/94375772/162624606-f466c169-a4a5-46d7-934a-c6ecf4854825.png)
+
+### Nomor 4
+
+4.a
