@@ -70,3 +70,39 @@ Nilai Rataan (μ) dan Varian ( σ² ) dari Distribusi Poisson.
 ### Nomor 4
 
 4.a
+Fungsi Probabilitas dari Distribusi Chi-Square.
+
+![image](https://user-images.githubusercontent.com/94375772/162624843-efa84072-b33c-4546-aec6-8967089dcb42.png)
+
+4.b
+Histogram dari Distribusi Chi-Square dengan 100 data random.
+
+![image](https://user-images.githubusercontent.com/94375772/162624925-d07d3461-b7a7-4763-8db6-13eb5e544a62.png)
+
+4.c
+Nilai Rataan (μ) dan Varian ( σ² ) dari Distribusi Chi-Square.
+
+![image](https://user-images.githubusercontent.com/94375772/162624978-44f13190-40c1-4b73-a889-a588546a1268.png)
+
+### Nomor 5
+
+5.a
+Fungsi Probabilitas dari Distribusi Exponensial
+
+![image](https://user-images.githubusercontent.com/94375772/162625276-4a571f08-0acd-420c-aa51-ca5cbfaa79ea.png)
+
+5.b
+Histogram dari Distribusi Exponensial untuk 10, 100, 1000 dan 10000 bilangan random
+
+![image](https://user-images.githubusercontent.com/94375772/162625344-04db7ad3-a700-42db-9af9-6359d7be5eb7.png)
+
+5.c
+Nilai Rataan (μ) dan Varian ( σ² ) dari Distribusi Exponensial untuk n = 100 dan λ = 3
+Petunjuk:
+● Gunakan set.seed(1)
+● Gunakan fungsi bawaan R
+
+![image](https://user-images.githubusercontent.com/94375772/162625402-f1ec3277-1b62-4a4a-8a92-6c63692e012e.png)
+
+
+
